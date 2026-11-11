@@ -91,10 +91,6 @@ Uygulama beklenmedik şekilde kapanırsa klavyenin ışığı son seviyede kalab
 swift isik-test.swift geri
 ```
 
-## Destek
-
-Destek ekibimiz 7/24 açık. Yazın, en kısa sürede size dönüş yapalım. Hata bildirmek ya da öneri yazmak için bir [issue](https://github.com/ayhanhakan/MiX-Key/issues) açabilirsin.
-
 ## Lisans
 
 [MIT](LICENSE)
